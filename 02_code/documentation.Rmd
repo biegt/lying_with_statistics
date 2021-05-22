@@ -1,0 +1,15 @@
+---
+title: "Abgabe 'Lügen mit Statistik' - Dokumentation"
+author: "Till Bieg"
+date: "5/21/2021"
+output: html_document
+---
+
+# Welche Mittel werden in der Darstellung verwendet, um den Sachverhalt auf eine bestimmte Art und Weise darzustellen?
+
+* Die Grafik möchte den Anstieg an 
+* Es werden nur Prozentuelle Veränderungen dargestellt (ggf. betrügerische Basis, proztizge Prozente, trügerische Trends)
+* das Seitenverhältnis hat große Höhe -> steilere Kurve
+* nur ausgewählte Hunderassen werden dargestellt, wie Anzahl der Listenhunde insgesamt sinkt tatäschlich (so auch für die meisten indiv. Listenhunderassen)
+
+Next steps: Mapping zu Kapitel raussuchen - ggf. Exploration hinzufügen
