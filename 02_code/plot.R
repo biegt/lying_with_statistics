@@ -91,7 +91,7 @@ ast_data %>%
     x = ymd("2013-07-31"),
     color = "#4d4c4c",
     y = 3,
-    label = "Ende 2017 hat sich die Anzahl \nim Vergleich zu 2012 verfünffacht",
+    label = "Ende 2017 hat sich die Anzahl \nim Vergleich zu 2012 versechsfacht",
     hjust = "left"
   ) -> ast_plot
 
@@ -103,7 +103,7 @@ pbt_data %>%
                      breaks = c(0.5, 1, 1.5, 2.5)) +
   scale_x_date() +
   theme_minimal() +
-  labs(x = "Jahr", y = "Proz. Anstieg", title = "<span style = 'color:#cf0287;font-family:Blacksword;'>Pitbull-Terrier</span>") +
+  labs(x = "Jahr", y = "Proz. Anstieg", title = "<span style = 'color:#cf0287;font-family:Blacksword;'>Pitbull Terrier</span>") +
   theme(
     panel.grid.major.x =  element_blank(),
     panel.grid.minor.x = element_blank(),
